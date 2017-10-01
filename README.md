@@ -6,7 +6,7 @@
 
 ### Why should you care?
 
-Like most people, you probably never used those ominous colourful tags.![FinderWindow](FinderWindow.jpeg)
+Like most people, you probably never used those ominous colourful tags.![FinderWindow](images/FinderWindow.jpeg)
 
 So why start now?
 Tags offer a very fine level of control over your files independent from where in the system they are.  
@@ -20,13 +20,13 @@ Again you could put the tutorials in folders describing the topic of the tutoria
 
 Now if you did end up having you tutorials all over the place and you still wanted to get an overview of just how studious you've been you might find it difficult to remember where all those files are.  
 
-You could, of course, use Spotlight to search for files containing the word tutorial or for all pdf files but that might also give you a list of all your other eBooks and it might miss those tutorials not labled as such but rather labled as something like 'guide' or 'how-to'.![FinderWindowSearch](FinderWindowSearch.jpeg "Search for every file containing 'tutorial'")
+You could, of course, use Spotlight to search for files containing the word tutorial or for all pdf files but that might also give you a list of all your other eBooks and it might miss those tutorials not labled as such but rather labled as something like 'guide' or 'how-to'.![FinderWindowSearch](images/FinderWindowSearch.jpeg "Search for every file containing 'tutorial'")
 
 Using tags, however, allows you to search for files of every type everywhere at once on the condition that it has the 'tutorial'- or 'guide'-tag in it's metadata.
 
-![Spotlight](FinderTagSearch.jpeg)
+![Spotlight](images/FinderTagSearch.jpeg)
 
-![Spotlight](Spotlight.jpeg)
+![Spotlight](images/Spotlight.jpeg)
 
 #### Usage example Terminal
 
@@ -50,9 +50,9 @@ Issuing mdfind ```'kMDItemUserTags == "guide"'``` gives you something like this:
 
 #### How to set tags
 
-Setting tags can be accomplished in two ways. The first is to go into the _Get Info_-dialog of a file via context-click. The other is in the Finder-window below the file preview when the file is selected.![settingTagsInFinder](settingTagsInFinder.jpeg)
+Setting tags can be accomplished in two ways. The first is to go into the _Get Info_-dialog of a file via context-click. The other is in the Finder-window below the file preview when the file is selected.![settingTagsInFinder](images/settingTagsInFinder.jpeg)
 
-![GetInfoTags](GetInfoTags.jpeg)
+![GetInfoTags](images/GetInfoTags.jpeg)
 
 #### How to delete tags from the system
 
@@ -151,7 +151,7 @@ The result might be something like this:
 
 #### Utilizing metadata-attributes in search in Finder
 
-![MetadataSearchFinder](MetadataSearchFinder.jpeg)
+![MetadataSearchFinder](images/MetadataSearchFinder.jpeg)
 
 ## Additional References
 
